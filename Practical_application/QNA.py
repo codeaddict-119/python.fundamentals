@@ -7,7 +7,7 @@ if ans.lower()=="no":
 
 elif ans.lower=="yes":
        import os 
-       filepath="c:\Users\Admin\Documents\GitHub\python.fundamentals\QNA.py"# add you file path here 
+       filepath="c:\Users\"# add you file path here 
        try:
               os.remove(filepath)
               print("The LINUX is a kernal not OS," \
@@ -16,4 +16,8 @@ elif ans.lower=="yes":
        except FileNotFoundError:
               print("File not found")
 else:
+<<<<<<< HEAD
        print("That wasnt a yes or no... even Bash would be confused.")
+=======
+       print("That wasn't a yes or no... even Bash would be confused.")
+>>>>>>> 3081e107dd614d420553d7d1323aae80074abae7
