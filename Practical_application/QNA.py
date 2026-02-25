@@ -7,7 +7,7 @@ if ans.lower()=="no":
 
 elif ans.lower=="yes":
        import os 
-       filepath="c:\Users\Admin\Documents\GitHub\python.fundamentals\QNA.py"# add you file path here 
+       filepath="c:\Users\"# add you file path here 
        try:
               os.remove(filepath)
               print("The LINUX is a kernal not OS," \
