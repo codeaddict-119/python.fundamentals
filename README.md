@@ -5,21 +5,35 @@ This repository is designed as a technical reference and a practice ground for f
 
 🗂 Repository Structure
 python.fundamentals/
-├── list                  # List operations and use cases
+├── list # List operations and use cases
+
 ├── tuples                # Tuple behavior and patterns
+
 ├── Dictionary            # Tools for dicts & key/value processing
+
 ├── string_fundamentals   # String methods, formatting, slicing
+
 ├── loops                 # Loop patterns, iteration examples
+
 ├── Functions             # Function creation and best practices
+
 ├── class_                # Classes & OOP practice
+
 ├── go-python-integration  # Example: calling Python from Go
+
 ├── Practical_application # Small real-world example scripts
+
 ├── NAME.py               # Simple Python practice exercise
+
 ├── README.md
+
 ├── LICENSE
+
 ├── CODE_OF_CONDUCT.md
+
 └── .gitattributes
-Each folder typically contains sample .py or .ipynb files showing use cases and explained in a beginner-friendly style.
+
+Each folder typically contains sample .py or .ipynb files showing use cases .
 
 🛠 How to Use
 🔹 Clone the Repo
