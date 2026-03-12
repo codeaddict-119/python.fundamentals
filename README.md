@@ -3,8 +3,10 @@ A structured, topic-based collection of Python 3 fundamentals — clean examples
 
 This repository is designed as a technical reference and a practice ground for foundational Python syntax, data structures, control flow, functions, object-oriented programming (OOP), and real-world usage patterns.
 
-🗂 Repository Structure
+🗂 Repository Structue
+
 python.fundamentals/
+
 ├── list # List operations and use cases
 
 ├── tuples                # Tuple behavior and patterns
@@ -17,7 +19,7 @@ python.fundamentals/
 
 ├── Functions             # Function creation and best practices
 
-├── class_                # Classes & OOP practice
+├── OOP                # Classes & OOP practice
 
 ├── go-python-integration  # Example: calling Python from Go
 
@@ -35,20 +37,27 @@ python.fundamentals/
 
 Each folder typically contains sample .py or .ipynb files showing use cases .
 
-🛠 How to Use
+# 🛠 How to Use
+
 🔹 Clone the Repo
+
 git clone https://github.com/Eamon2009/python.fundamentals.git
+
 cd python.fundamentals
+
 🔹 Run Python Scripts
+
 Make sure you have Python 3 installed on your machine.
 
 python3 script_name.py
+
 If using Jupyter Notebook files (*.ipynb):
 
 jupyter notebook
 Then open the relevant notebook and run interactive cells.
 
-🤝 Contributing
+# 🤝 Contributing
+
 You’re welcome to:
 
 Add better explanations or examples
@@ -61,5 +70,5 @@ Suggest improvements via issues or pull requests
 
 Thanks for wanting to improve the project!
 
-📜 License
-This repo is distributed under the MIT License — freely usable for learning, sharing, and building.
+# License
+  MIT
