@@ -1,10 +1,8 @@
-students = [
-    {"name": "Alice", "grade": 88},
-    {"name": "Bob", "grade": 75},
-    {"name": "Charlie", "grade": 92},
-]
 
-# Sort by grade
-sorted_students = sorted(students, key=lambda student: student["grade"])
+from functools import reduce
 
-print(sorted_students)
+numbers = [1, 2, 3, 4, 5]
+
+product = reduce(lambda x, y: x * y, numbers)
+
+print(product)
