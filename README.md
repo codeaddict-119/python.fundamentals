@@ -83,6 +83,12 @@ Planned improvements for this repository include:
 
 ---
 
+## Author
+
+ Eamon  
+   
+---
+
 ## License
    
    MIT
