@@ -40,7 +40,8 @@ The repository is structured to move **from basic concepts toward practical codi
 ## Technologies Used
 
 - Python  
-- Jupyter Notebook  
+- Jupyter Notebook
+- IDE  
 
 These tools are used to experiment with code, explain concepts step-by-step, and test solutions interactively.
 
